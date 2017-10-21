@@ -1,0 +1,31 @@
+.big-container {
+	background-color: #1F253D;
+	width: 98%;
+	margin-left: 13px;
+	padding-bottom: 138px;
+}
+
+body {
+	background-color: #394264;
+}
+
+.top-list li {
+	display: inline-block;
+	list-style: none;
+	color: white;
+	font-size: 25px;
+}
+
+.top-list li:hover {
+	cursor: pointer;
+}
+
+.what {
+	float: left;
+}
+
+.play-again {
+	float: right;
+	padding-right: 25px;
+}
+
